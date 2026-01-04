@@ -2,7 +2,7 @@
 **CMIT 265 | Fundamentals of Networking**
 
  📄 **Full Lab Report:**  
-👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/BYOD-Security-Assessment-Device-Compliance-Project/blob/main/hfabyodregistrationformtemplate%20(1)%20(1).pdf)
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Network-Troubleshooting-Visibility-Tool-Report/blob/main/TroubleshootingAndToolReportTemplate_Edited.pdf)
 
 ---
 
