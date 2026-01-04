@@ -1,5 +1,4 @@
 # 🔍 Network Troubleshooting & Visibility Tool Report
-**CMIT 265 | Fundamentals of Networking**
 
  📄 **Full Lab Report:**  
 👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Network-Troubleshooting-Visibility-Tool-Report/blob/main/TroubleshootingAndToolReportTemplate_Edited.pdf)
